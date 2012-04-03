@@ -1,0 +1,10 @@
+<h1>This is my awesome posts</h1>
+{if posts}
+  <div class="posts">
+    {for posts}
+      {view post}
+    {end}
+  </div>
+{else}
+  <div>Loading</div>
+{end}

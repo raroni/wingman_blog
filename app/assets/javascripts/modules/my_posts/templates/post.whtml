@@ -1,0 +1,5 @@
+<h2>{post.title}</h2>
+<div>{post.body}</div>
+<form class="test">
+  <input type="submit" value"Save">
+</form>
