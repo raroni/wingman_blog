@@ -1,4 +1,4 @@
-# =require modules/my_posts
+# =require apps/my_posts
 
 class DummyView extends Wingman.View
   templateSource: null
