@@ -1,5 +1,5 @@
 == Welcome to Rails
 
-This is a sample app showing off how to use Rails with Wingman.
+This is a sample app showing how to use Rails with Wingman.
 
 Checkout the app/assets/javascripts and test/javascripts dirs.
